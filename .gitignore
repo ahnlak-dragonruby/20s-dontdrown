@@ -1,0 +1,6 @@
+dragonruby
+dragonruby-publish
+*.sublime-project
+*.sublime-workspace
+logs/
+tmp/

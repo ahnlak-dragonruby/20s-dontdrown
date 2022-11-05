@@ -1,0 +1,13 @@
+# Don't Drown metadata
+
+# Basic game metrics
+devid=ahnlak
+devtitle=ahnlak
+gameid=20s-dontdrown
+gametitle=Don't Drown
+version=0.0.1
+icon=metadata/icon.png
+
+# Configure the display
+orientation=portrait
+hd=true
